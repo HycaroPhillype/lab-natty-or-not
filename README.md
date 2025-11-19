@@ -22,7 +22,7 @@ Ajustei o prompt até chegar num visual que mistura:
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Resultado IA](./img/resultado.png)
 
 ## 💭 Reflexão (Opcional)
 Criar este projeto mostrou que a IA facilita muito o processo criativo, mas ainda depende de direção humana para gerar algo com propósito.
