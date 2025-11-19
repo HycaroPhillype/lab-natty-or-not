@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not - Experimento Visual com IA 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto faz parte do desafio da DIO sobre IAs Generativas.
+Criei uma arte visual utilizando IA para explorar o conceito “Natty or Not”, mostrando a fronteira entre o natural e o artificial.
+A imagem representa um humano com elementos metálicos, detalhes sintéticos e estética futurista — levantando a dúvida: isso é real ou foi gerado por uma IA?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+> ChatGPT — (para criação de descrição)
+> DALL·E / Outras IAs de geração de imagem — criação da arte visual
+> GitHub — versionamento e entrega do projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Decidi trabalhar com o tema “Natty or Not”, buscando algo que parecesse parcialmente humano e parcialmente artificial.
+Escrevi prompts detalhados para gerar uma imagem realista com estética cyberpunk + futurista + biotecnológica.
+Ajustei o prompt até chegar num visual que mistura:
+
+> pele humana com textura metálica
+> olhos artificiais com brilho azulado
+> iluminação neon
+> expressão realista, quase fotográfica
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar este projeto mostrou que a IA facilita muito o processo criativo, mas ainda depende de direção humana para gerar algo com propósito.
+O desafio Natty or Not também reforça o quanto já é difícil diferenciar o que é natural do que é artificial — especialmente quando usamos IAs avançadas.
